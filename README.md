@@ -7,4 +7,4 @@ The project involves performing an analysis on retail data using SQL with tables
 - Identified top-selling products, discontinued items, and evaluated salesperson performance.
 - Gained insights into customer behavior, from top spenders to infrequent buyers, and repeat purchase trends.
 
-## CLICK HERE TO ACCESS MY CODESPACE [https://friendly-guide-4j7q7949w7q6c77x9.github.dev/]
+## [CLICK HERE TO ACCESS MY CODESPACE] (https://friendly-guide-4j7q7949w7q6c77x9.github.dev/)
